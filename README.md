@@ -1,5 +1,8 @@
-<h1 style="text-align: center;">Hello, Im Jon! 😇</h1>
-<img width="80%" src="https://github.com/user-attachments/assets/bfd8cdba-1c09-420d-a268-10d7ee15909f">
+<div align="center">
+  <h1>Hello, I'm Jon! 😇</h1>
+  <img width="80%" src="https://github.com/user-attachments/assets/bfd8cdba-1c09-420d-a268-10d7ee15909f">
+</div>
+
 <!--
 **Meybell2/Meybell2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![banner](https://github.com/user-attachments/assets/bfd8cdba-1c09-420d-a268-10d7ee15909f)
