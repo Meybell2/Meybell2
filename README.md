@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, I'm Jon! 😇</h1>
-  <img width="80%" src="https://github.com/user-attachments/assets/bfd8cdba-1c09-420d-a268-10d7ee15909f">
+  <img width="100%" src="https://github.com/user-attachments/assets/bfd8cdba-1c09-420d-a268-10d7ee15909f">
 </div>
 
 <!--
